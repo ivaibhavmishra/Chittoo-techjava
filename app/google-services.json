@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "35611736890",
+    "firebase_url": "https://chitto-techjava-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "chitto-techjava",
+    "storage_bucket": "chitto-techjava.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:35611736890:android:6444fdaf0a76573cbdae03",
+        "android_client_info": {
+          "package_name": "com.example.chitto_techjava"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "35611736890-1o2kud9obqes66o4oci39o6itq78aje1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.chitto_techjava",
+            "certificate_hash": "5df0eed0a9d07a0227daa5ef88ded0c6438ab497"
+          }
+        },
+        {
+          "client_id": "35611736890-mp992brhavcvsiogsnjdpgbhd86brb1a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBW1khuwYdow284cGvZJCZt_HU8UtLszgo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "35611736890-mp992brhavcvsiogsnjdpgbhd86brb1a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

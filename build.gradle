@@ -1,0 +1,19 @@
+buildscript {
+    repositories {
+        google() // Required for Firebase and Google dependencies
+        mavenCentral()
+    }
+    dependencies {
+        // Android Gradle plugin (ensure this matches your Gradle version)
+        classpath 'com.android.tools.build:gradle:8.7.2'
+        // Google Services plugin for Firebase
+        classpath 'com.google.gms:google-services:4.3.15'   // Ensure this is the latest version
+    }
+}
+
+plugins {
+    // Apply Android Gradle plugin for applications
+    id 'com.android.application' version '8.7.2' apply false
+    // Apply Android Gradle plugin for libraries (if applicable)
+    id 'com.android.library' version '8.7.2' apply false
+}
